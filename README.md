@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Data Analyst Portfolio Projects
 
 ## Purpose
 
